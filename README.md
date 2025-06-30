@@ -38,7 +38,7 @@ Each protocol was filtered and verified using Wireshark’s display filter bar.
 
 ## Output Files
 
-- task5_capture.pcap – Packet capture file
+- task5_packet_capture.pcap – Packet capture file
 - screenshots/ 
 
 ## Outcome  
